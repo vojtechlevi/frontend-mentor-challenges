@@ -9,3 +9,8 @@ https://frontend-mentor-challenges-vojtechlevi.vercel.app/
 
 Challenge 2 - Product card component
 https://frontend-mentor-challenges-aaka-vojtechlevi.vercel.app/
+
+<hr>
+
+Challenge 3 - NFT card component
+https://frontend-mentor-challenges-nh4r-vojtechlevi.vercel.app/
