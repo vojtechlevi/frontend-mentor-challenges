@@ -17,5 +17,5 @@ https://frontend-mentor-challenges-nh4r-vojtechlevi.vercel.app/
 
 <hr>
 
-Challenge 4 - Sunnyside landing page
-https://admirable-vacherin-829606.netlify.app/
+Challenge 4 - 3-colum card component
+https://fabulous-cajeta-e66566.netlify.app/
